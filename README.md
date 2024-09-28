@@ -6,12 +6,12 @@ Planet count: 153
 
 Active:
 - Active planet count: 57
-- Habituated Planet count: 41
-- Neutral Planet count: 16
-- Serpulo Planet count:  l2
-- Erekir Planet count: 18
-- Dotriaten Planet count: 27
-- Extreme Conditions count: 7
+  - Habituated Planet count: 41
+  - Neutral Planet count: 16
+  - Extreme Conditions count: 7
+    - Serpulo Planet count:  l2
+    - Erekir Planet count: 18
+    - Dotriaten Planet count: 27
 
 Inactive/Inhospitable: 
 - Inactive count: 96
