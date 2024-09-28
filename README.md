@@ -31,3 +31,5 @@ Completed:
   + Inhospitable:
     - ✔️ Planet(s) 0
     - ❌️ Planet(s) 1 - 96
+
+(images will be here by may 5th)
