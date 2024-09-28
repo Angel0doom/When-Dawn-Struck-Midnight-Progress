@@ -16,20 +16,16 @@ Active:
 Inactive/Inhospitable: 
 - Inactive count: 96
 
-Completed: {
-- Suns: [
- + Sun(s) 1
- × Sun(s) 2 - 23
-]
+Completed:
+- Suns:
+ - + Sun(s) 1
+ - × Sun(s) 2 - 23
 
-- Planets: [
-  - Hospital: [
-    + Planet(s) 1 - 3
-    × Planet(s) 4 - 57
-]
+- Planets:
+ - Hospital:
+  - + Planet(s) 1 - 3
+  - × Planet(s) 4 - 57
 
-  - Inhospitable: [
-    + Planet(s) 0
-    × Planet(s) 1 - 96
-]]
-}
+ - Inhospitable:
+  - + Planet(s) 0
+  - × Planet(s) 1 - 96
