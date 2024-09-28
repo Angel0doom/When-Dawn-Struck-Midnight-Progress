@@ -25,7 +25,7 @@ Completed:
 
 - Planets:
   + Hospital:
-    - ✔️ Planet(s) 1 - 3
+    - ✔️ Planet(s) 1 - 2
     - ❌️ Planet(s) 4 - 57
 
   + Inhospitable:
