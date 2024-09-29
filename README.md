@@ -1,4 +1,4 @@
-⚠️ Major setback, all progress halted from having to redo from scratch due to switching to Java for higher quality and better experiences ⚠️
+⚠️ Major setback, all progress halted from having to redo from scratch due to switching to Java for OR waiting until v8 for scrollable UI and farther rendering, for higher quality and better experiences ⚠️
 
 Supermassive Blackhole count: 1
 Blackhole count: 3
