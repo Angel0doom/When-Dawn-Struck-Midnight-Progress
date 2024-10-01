@@ -1,5 +1,3 @@
-⚠️ Major setback, all progress halted from having to redo from scratch due to switching to Java for OR waiting until v8 for scrollable UI and farther rendering, for higher quality and better experiences ⚠️
-
 Supermassive Blackhole count: 1
 Blackhole count: 3
 Solarsystem count: 33
@@ -32,4 +30,4 @@ Completed:
     - ✔️ Planet(s) 0
     - ❌️ Planet(s) 1 - 96
 
-(images will be here by october NOT may 5th)
+Preview images or video will be here by oct 5th depends on the time I have left
