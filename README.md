@@ -30,4 +30,4 @@ Completed:
     - ✔️ Planet(s) 0
     - ❌️ Planet(s) 1 - 96
 
-Preview images or video will be here by oct 5th depends on the time I have left
+Preview images or video will be here by oct 5th depends on the time I have left [prolonged to the 10th due to complications]
